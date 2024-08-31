@@ -1,9 +1,9 @@
 {
-	"Id" : "SCAchievementsLangPack",
-	"Name" : "SChinese Achievements Language Pack",
+	"Id" : "SCAchievementLangPack",
+	"Name" : "SChinese Achievement Language Pack",
 	"Author" : "<color=#FFC0CB><b>小巾</b></color>&开摆&凛",
 	"Description" : "对星云舰成就内容进行汉化",
-	"Version" : "1.0.0"
+	"Version" : "1.0.0",
 	"Build" : 0,
 	"Dependency" : [
 	],
