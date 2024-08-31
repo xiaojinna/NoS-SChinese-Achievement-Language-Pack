@@ -70,7 +70,7 @@
 "achievement.collator.challenge.title" : "超级科学家"
 "achievement.collator.challenge.goal" : "全部伪装者都被采集后驱逐他们并胜利。"
 "achievement.collator.challenge.cond" : ""
-"achievement.collator.challenge.flavor" : "“世界终于恢复正规了！”—一段话从实验室中传出。"
+"achievement.collator.challenge.flavor" : "“世界终于恢复正轨了！”—一段话从实验室中传出。"
 
 "achievement.comet.common1.title" : "船上的彗星"
 "achievement.comet.common1.goal" : "使用自己的技能。"
@@ -152,8 +152,8 @@
 "achievement.mayor.common1.cond" : "提示：必须是自己票的玩家"
 "achievement.mayor.common1.flavor" : "“我说的才算！”-来自独裁者的发言。"
 
-"achievement.mayor.another1.title" : "全都听我的"
-"achievement.mayor.another1.goal" : "投票并让目标放逐。"
+"achievement.mayor.another1.title" : "白忙活"
+"achievement.mayor.another1.goal" : "没有投出一票的情况下死亡。"
 "achievement.mayor.another1.cond" : "提示：3次会议以上"
 
 "achievement.mayor.common2.title" : "隐藏实力"
@@ -170,8 +170,8 @@
 "achievement.necromancer.common1.cond" : ""
 "achievement.necromancer.common1.flavor" : "“还没到你退场的时候。”-来自一位神秘的法师。"
 
-"achievement.necromancer.another2.title" : "命中注定的死亡"
-"achievement.necromancer.another2.goal" : "在拖动尸体的过程中发起会议。"
+"achievement.necromancer.another2.title" : "没有奇迹"
+"achievement.necromancer.another2.goal" : "在拖动尸体的过程中被击杀。"
 "achievement.necromancer.another2.cond" : ""
 "achievement.necromancer.another2.flavor" : "“人固有一死，或重于泰山，或轻于鸿毛”-汉 · 司马迁"
 
@@ -239,7 +239,7 @@
 "record.psychic.common2.myState" : "死因"
 
 "achievement.psychic.common2.title" : "资深灵媒"
-"achievement.psychic.common2.goal" : "获取所以的通灵信息。"
+"achievement.psychic.common2.goal" : "获取所有的通灵信息。"
 "achievement.psychic.common2.cond" : ""
 
 "achievement.psychic.challenge.title" : "人道关怀"
@@ -360,7 +360,7 @@
 "achievement.cannon.another2.cond" : ""
 
 "achievement.cannon.challenge.title" : "飞行事故"
-"achievement.cannon.challenge.goal" : "所以在本回合内吹飞的玩家由不同原因在此回合死亡。"
+"achievement.cannon.challenge.goal" : "所有在本回合内吹飞的玩家由不同原因在此回合死亡。"
 "achievement.cannon.challenge.cond" : "提示：至少击飞3个人，会议驱逐、连带也计入。"
 
 "achievement.cleaner.common1.title" : "干干净净"
@@ -380,7 +380,7 @@
 "achievement.destroyer.common1.cond" : ""
 
 "achievement.destroyer.common2.title" : "碾压一切！"
-"achievement.destroyer.common2.goal" : "所以10次特殊击杀"
+"achievement.destroyer.common2.goal" : "使用10次特殊击杀"
 "achievement.destroyer.common2.cond" : ""
 
 "achievement.destroyer.another1.title" : "趁虚而入"
@@ -425,7 +425,7 @@
 "achievement.effacer.common4.cond" : ""
 "achievement.effacer.common4.flavor" : "“你以为你很强？”-来自尸体上的血字。"
 
-"achievement.effacer.challenge.title" : "瑕疵なき布陣"
+"achievement.effacer.challenge.title" : "无人区"
 "achievement.effacer.challenge.goal" : "除自身以外的伪装者全部存活。"
 "achievement.effacer.challenge.cond" : "提示：至少所有人都被隐身过。"
 "achievement.effacer.challenge.flavor" : "“怎么只有我一个人，其他人呢？”-来自飞艇管理者的疑惑。"
