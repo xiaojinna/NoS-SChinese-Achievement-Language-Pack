@@ -1,2 +1,23 @@
-# NoS-SChinese-Achievements-Language-Pack
-对星云舰成就部分进行汉化。Sinicize the achievements of the Nebula Ship.
+# 关于此汉化包
+这是对星云舰的成就内容进行汉化翻译。
+
+主要基本内容都由我一人汉化制作，难免会出现翻译错误、漏字漏词，若有翻译错误可以联系我，或者提交你的翻译。我会努力对最新版内容进行兼容。
+# 关于二创
+我对此没有任何异议，你可以修改、甚至生草，但一定要标明原作者也就是我。
+
+# 其他信息
+我将汉化内容拆成**3**份，这是其中之一。
+### 关于基本翻译
+对游戏主要内容进行翻译。
+
+[相关链接](https://github.com/xiaojinna/NoS-SChinese-Base-Language-Pack)
+### 关于颜色翻译
+颜色内容我感觉没多大必要，毕竟它是一个色盘，产生的颜色太多了，不过后续我还是会创建一个库方便大家提供建议和翻译。
+
+[相关链接](https://github.com/xiaojinna/NoS-SChinese-Color-Language-Pack)
+# 联系方式
+QQ：2829016733
+[B站](https://space.bilibili.com/439485056?spm_id_from=333.1007.0.0)
+
+邮箱：2829016733@qq.com
+
