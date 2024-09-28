@@ -272,6 +272,11 @@
 "achievement.sheriff.another2.goal" : "不执法并活到最后胜利。"
 "achievement.sheriff.another2.cond" : ""
 
+"achievement.sheriff.another3.title" : "没有信誉"
+"achievement.sheriff.another3.goal" : "执法后报告并被指控驱逐"
+"achievement.sheriff.another3.cond" : ""
+"achievement.sheriff.another3.flavor" : "“你已经没有任何信誉可言！”—来自船员们的唏嘘。"
+
 "achievement.sheriff.common2.title" : "从不记仇"
 "achievement.sheriff.common2.goal" : "成功执法一名在会议中投给警长的玩家。"
 "achievement.sheriff.common2.cond" : ""
@@ -586,6 +591,19 @@
 "achievement.stirrer.challenge.title" : "七星夺窍术"
 "achievement.stirrer.challenge.goal" : "同时对7名玩家造成假破坏效果"
 "achievement.stirrer.challenge.cond" : "提示：破坏任务3个以下且施幻冷却在10秒以上"
+
+"achievement.thurifer.common1.title" : "禅境"
+"achievement.thurifer.common1.goal" : "累计激活10个香炉"
+"achievement.thurifer.common1.cond" : ""
+
+"achievement.thurifer.common2.title" : "害人害己"
+"achievement.thurifer.common2.goal" : "将身上的“香熏”转移到香炉中。"
+"achievement.thurifer.common2.cond" : ""
+"achievement.thurifer.common2.flavor" : "“若心存恶意, 则必自食恶果, 因恶行终将报应。”—警示语"
+
+"achievement.thurifer.challenge.title" : "香熏的魅力"
+"achievement.thurifer.challenge.goal" : "有8人以上受到“香熏”效果，且都以达到50%，然后击杀4个人。<br>至少有一个人死于最大延迟击杀和一个人因延迟死亡死于会议期间。"
+"achievement.thurifer.challenge.cond" : ""
 
 "achievement.arsonist.common1.title" : "充满汽油味"
 "achievement.arsonist.common1.goal" : "3个以上被涂油的玩家活着参加会议"
