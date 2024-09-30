@@ -323,6 +323,34 @@
 "achievement.alien.challenge.cond" : "提示：自身击杀3名玩家以上"
 "achievement.alien.challenge.flavor" : "“所以他们都已经死了吗？”-来自被追入绝境的船员。"
 
+"achievement.berserker.common1.title" : "红温"
+"achievement.berserker.common1.goal" : "使用一次暴怒能力。"
+"achievement.berserker.common1.cond" : ""
+
+"achievement.berserker.common2.title" : "无尽的红温怒气"
+"achievement.berserker.common2.goal" : "累计使用10次以上个暴怒。"
+"achievement.berserker.common2.cond" : ""
+
+"achievement.berserker.common3.title" : "过度劳累之后…"
+"achievement.berserker.common3.goal" : "击杀一名玩家后使用镇静能力。"
+"achievement.berserker.common3.cond" : ""
+
+"achievement.berserker.another1.title" : "临死前的怒火"
+"achievement.berserker.another1.goal" : "使用暴怒能力后在会议期间被驱逐或赌杀。"
+"achievement.berserker.another1.cond" : ""
+
+"achievement.berserker.another2.title" : "嗜血野兽"
+"achievement.berserker.another2.goal" : "在彻底暴怒状态下击杀一名伪装者。"
+"achievement.berserker.another2.cond" : ""
+
+"achievement.berserker.common4.title" : "怒火未消"
+"achievement.berserker.common4.goal" : "在暴怒状态下击杀玩家并活到会议结束"
+"achievement.berserker.common4.cond" : ""
+
+"achievement.berserker.challenge.title" : "无人可挡"
+"achievement.berserker.challenge.goal" : "使用暴怒能力后，在20秒内击杀3名玩家并存活到最后胜利。"
+"achievement.berserker.challenge.cond" : ""
+
 "achievement.bountyHunter.common1.title" : "专业的事情还需要专业的人做"
 "achievement.bountyHunter.common1.goal" : "成功击杀赏金目标。"
 "achievement.bountyHunter.common1.cond" : ""
