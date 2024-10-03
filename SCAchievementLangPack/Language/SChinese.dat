@@ -340,7 +340,7 @@
 "achievement.berserker.another1.cond" : ""
 
 "achievement.berserker.another2.title" : "嗜血野兽"
-"achievement.berserker.another2.goal" : "在彻底暴怒状态下击杀一名伪装者。"
+"achievement.berserker.another2.goal" : "在忘我状态下击杀一名伪装者。"
 "achievement.berserker.another2.cond" : ""
 
 "achievement.berserker.common4.title" : "怒火未消"
@@ -1031,6 +1031,11 @@
 "achievement.autumnSky.title" : "全职玩家"
 "achievement.autumnSky.goal" : "职业连续变化5次以上。"
 "achievement.autumnSky.cond" : "提示：9月限定"
+
+"achievement.halloween.title" : "捣蛋时间"
+"achievement.halloween.goal" : "把尸体搬到50米外。"
+"achievement.halloween.cond" : "提示：10月限定"
+"achievement.halloween.flavor" : "“死了就不能给你糖哦！”—一个真正的鬼这样说的。"
 
 "achievement.christmas.title" : "结束之日"
 "achievement.christmas.goal" : "在会议中驱逐恋人"
