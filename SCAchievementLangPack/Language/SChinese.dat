@@ -1,5 +1,3 @@
-# Achievement
-
 "achievement.agent.common1.title" : "最强社畜"
 "achievement.agent.common1.goal" : "一局完成8个以上的任务，并任务胜利。。"
 "achievement.agent.common1.cond" : "提示：免除自身3以下的任务+任务总量"
@@ -97,6 +95,19 @@
 "achievement.doctor.challenge.goal" : "在使用便携式生命监测装置时看到死亡的瞬间。"
 "achievement.doctor.challenge.cond" : "提示：初始时间在10秒以下+任务充能2秒以下"
 "achievement.doctor.challenge.flavor" : "“又多了一个。”-来自白衣者无奈独白"
+
+"achievement.echo.common1.title" : "物体在呼吸"
+"achievement.echo.common1.goal" : "使用一次感知并感知到其他玩家。"
+"achievement.echo.common1.cond" : ""
+
+"achievement.echo.common2.title" : "流动的声音"
+"achievement.echo.common2.goal" : "累计感知50次玩家行动。"
+"achievement.echo.common2.cond" : ""
+
+"achievement.echo.challenge.title" : "监视你的行为"
+"achievement.echo.challenge.goal" : "通过感知2名以上玩家的异常行为并将异常行为的玩家投出去。"
+"achievement.echo.challenge.cond" : ""
+"achievement.echo.challenge.flavor" : "“请注意你们的行为！”-空气中流动的声音"
 
 "achievement.justice.common1.title" : "审判时间"
 "achievement.justice.common1.goal" : "发起一次公平会议。"
@@ -359,7 +370,7 @@
 "achievement.bountyHunter.another1.goal" : "击杀除赏金以外的目标。"
 "achievement.bountyHunter.another1.cond" : ""
 
-"achievement.bountyHunter.challenge.title" : "无处可逃"
+"achievement.bountyHunter.challenge.title" : "专业赏金杀手"
 "achievement.bountyHunter.challenge.goal" : "30秒内杀死3个玩家。"
 "achievement.bountyHunter.challenge.cond" : ""
 
@@ -429,7 +440,7 @@
 "achievement.disturber.common1.goal" : "使用干扰技能。"
 "achievement.disturber.common1.cond" : ""
 
-"achievement.disturber.common2.title" : "全面封锁"
+"achievement.disturber.common2.title" : "封锁区域"
 "achievement.disturber.common2.goal" : "连接6根杆子并使用干扰技能。"
 "achievement.disturber.common2.cond" : ""
 
@@ -762,6 +773,32 @@
 "achievement.paparazzo.challenge.cond" : "提示：自身死亡不算。"
 "achievement.paparazzo.challenge.flavor" : "“这是一个被诅咒的照片！”-来自会议记录。"
 
+"achievement.scarlet.common1.title" : "我可不渣"
+"achievement.scarlet.common1.goal" : "指定一名本命和一名以上的备胎。"
+"achievement.scarlet.common1.cond" : ""
+
+"achievement.scarlet.common2.title" : "臣服于我"
+"achievement.scarlet.common2.goal" : "使用号召累计驱逐3名玩家。"
+"achievement.scarlet.common2.cond" : ""
+
+"achievement.scarlet.another1.title" : "被魅惑的绅士"
+"achievement.scarlet.another1.goal" : "因为魅魔的死亡导致自己被连带。"
+"achievement.scarlet.another1.cond" : ""
+
+"achievement.scarlet.another2.title" : "来自绿茶的警告"
+"achievement.scarlet.another2.goal" : "在会议中被号召的票驱逐。"
+"achievement.scarlet.another2.cond" : ""
+"achievement.scarlet.another2.flavor" : "“好哥哥们，就是他欺负我！” —人群中的鬼魅之声。"
+
+"achievement.scarlet.love.title" : "自爱者"
+"achievement.scarlet.love.goal" : "在达到魅魔获胜条件时，只有本命胜利。"
+"achievement.scarlet.love.cond" : "提示：魅魔有额外胜利约束"
+"achievement.scarlet.love.flavor" : "“这是一个诅咒！”"
+
+"achievement.scarlet.challenge.title" : "女皇"
+"achievement.scarlet.challenge.goal" : "通过号召驱逐一名玩家，且至少有两名备胎死亡、两名存活，并与本命一起胜利。"
+"achievement.scarlet.challenge.cond" : ""
+
 "achievement.vulture.common1.title" : "真是美味啊！"
 "achievement.vulture.common1.goal" : "吃掉一个尸体"
 "achievement.vulture.common1.cond" : ""
@@ -989,10 +1026,6 @@
 "achievement.poltergeist.common1.goal" : "拖动一次尸体。"
 "achievement.poltergeist.common1.cond" : ""
 
-"achievement.firstKill.title" : "生与死的观察"
-"achievement.firstKill.goal" : "看到10次死亡"
-"achievement.firstKill.cond" : ""
-
 "achievement.setsubun.title" : "喜来福运"
 "achievement.setsubun.goal" : "完成所有任务并活到最后，同时驱逐所有伪装者获得胜利。"
 "achievement.setsubun.cond" : "提示：二月限定"
@@ -1040,6 +1073,32 @@
 "achievement.christmas.title" : "结束之日"
 "achievement.christmas.goal" : "在会议中驱逐恋人"
 "achievement.christmas.cond" : "提示：十二月限定"
+
+"achievement.firstKill.title" : "生与死的观察"
+"achievement.firstKill.goal" : "看到10次死亡"
+"achievement.firstKill.cond" : ""
+
+"achievement.firstKill2.title" : "真是令人愉快的游戏"
+"achievement.firstKill2.goal" : "累计被首杀50次。"
+"achievement.firstKill2.cond" : ""
+
+"achievement.firstKill3.title" : "进房笑嘻嘻，首刀玩手机"
+"achievement.firstKill3.goal" : "累计被首杀100次。"
+"achievement.firstKill3.cond" : ""
+"achievement.firstKill3.flavor" : "“高血压，已经卸载！”—■■■"
+
+"achievement.death1.title" : "越战越勇"
+"achievement.death1.goal" : "累计死亡50次。"
+"achievement.death1.cond" : ""
+
+"achievement.death2.title" : "尸骸成山"
+"achievement.death2.goal" : "累计死亡100次。"
+"achievement.death2.cond" : ""
+
+"achievement.death3.title" : "死亡如风"
+"achievement.death3.goal" : "累计死亡500次。"
+"achievement.death3.cond" : ""
+"achievement.death3.flavor" : "“已经不痛不痒了……”"
 
 "achievement.challenge.impostor.title" : "完美的入侵"
 "achievement.challenge.impostor.goal" : "所有伪装者都存活，并且获胜。"
@@ -1116,3 +1175,135 @@
 "achievement.costume.partyCamo.goal" : "隐蔽技能结束后，都聚集在一起。"
 "achievement.costume.partyCamo.cond" : "提示：至少3个人以上在一起。"
 "achievement.costume.partyCamo.flavor" : "无论如何，至少在这轮活下来了。"
+
+"achievement.innersloth.wins_skeld.title" : "漂泊飞船"
+"achievement.innersloth.wins_skeld.goal" : "在The Skeld 获胜 3 次。"
+"achievement.innersloth.wins_skeld.cond" : ""
+
+"achievement.innersloth.wins_mira.title" : "全面封锁"
+"achievement.innersloth.wins_mira.goal" : "在 MIRA 获胜 3 次。"
+"achievement.innersloth.wins_mira.cond" : ""
+
+"achievement.innersloth.wins_polus.title" : "证据确凿"
+"achievement.innersloth.wins_polus.goal" : "在Polus 获胜 3 次。"
+"achievement.innersloth.wins_polus.cond" : ""
+
+"achievement.innersloth.wins_airship.title" : "高帽船员帮"
+"achievement.innersloth.wins_airship.goal" : "在 Airship 获胜 3 次。"
+"achievement.innersloth.wins_airship.cond" : ""
+
+"achievement.innersloth.survive_crewmate.title" : "幸存者"
+"achievement.innersloth.survive_crewmate.goal" : "以船员的身份存活下来并取得胜利。"
+"achievement.innersloth.survive_crewmate.cond" : ""
+
+"achievement.innersloth.win_all_tasks.title" : "任务机器"
+"achievement.innersloth.win_all_tasks.goal" : "以船员身份完成所有任务来取得胜利。"
+"achievement.innersloth.win_all_tasks.cond" : ""
+
+"achievement.innersloth.win_always_correct_votes.title" : "神探福尔摩斯"
+"achievement.innersloth.win_always_correct_votes.goal" : "以船员身份在将每一票都投给伪装者的情况下取得胜利。"
+"achievement.innersloth.win_always_correct_votes.cond" : ""
+
+"achievement.innersloth.win_kills.title" : "开膛手"
+"achievement.innersloth.win_kills.goal" : "以伪装者身份杀死所有船员来取得胜利。"
+"achievement.innersloth.win_kills.cond" : ""
+
+"achievement.innersloth.win_impostor_vote.title" : "能言善道"
+"achievement.innersloth.win_impostor_vote.goal" : "以伪装者身份通过投票来取得胜利。"
+"achievement.innersloth.win_impostor_vote.cond" : ""
+
+"achievement.innersloth.win_sabotage.title" : "破坏王"
+"achievement.innersloth.win_sabotage.goal" : "以伪装者身份造成严重破坏来取得胜利。"
+"achievement.innersloth.win_sabotage.cond" : ""
+
+"achievement.innersloth.no_vents_impostor_win.title" : "谋事在人"
+"achievement.innersloth.no_vents_impostor_win.goal" : "以伪装者身份在不使用通风口的情况下取得胜利。"
+"achievement.innersloth.no_vents_impostor_win.cond" : ""
+
+"achievement.innersloth.survive_two_impostors.title" : "毫无破绽"
+"achievement.innersloth.survive_two_impostors.goal" : "在伪装者为 2 名的游戏中，于游戏结束时 2 名伪装者都存活的情况下取得胜利。"
+"achievement.innersloth.survive_two_impostors.cond" : ""
+
+"achievement.innersloth.kill_while_shifted.title" : "不要相信任何人"
+"achievement.innersloth.kill_while_shifted.goal" : "杀死某人，然后伪装成他们。"
+"achievement.innersloth.kill_while_shifted.cond" : ""
+
+"achievement.innersloth.block_kill_as_guardian.title" : "我可以成为你的“天士”"
+"achievement.innersloth.block_kill_as_guardian.goal" : "以守护天使的身份阻止杀人。"
+"achievement.innersloth.block_kill_as_guardian.cond" : ""
+
+"achievement.innersloth.task_complete_easy.title" : "实习生"
+"achievement.innersloth.task_complete_easy.goal" : "总计完成 10 次任务。"
+"achievement.innersloth.task_complete_easy.cond" : ""
+
+"achievement.innersloth.task_complete_medium.title" : "经理"
+"achievement.innersloth.task_complete_medium.goal" : "总计完成 100 次任务。"
+"achievement.innersloth.task_complete_medium.cond" : ""
+
+"achievement.innersloth.task_complete_hard.title" : "任务专家"
+"achievement.innersloth.task_complete_hard.goal" : "总计完成 500 次任务。"
+"achievement.innersloth.task_complete_hard.cond" : ""
+
+"achievement.innersloth.card_first_try.title" : "不可能的任务"
+"achievement.innersloth.card_first_try.goal" : "于一场游戏中一次就通过刷卡任务。"
+"achievement.innersloth.card_first_try.cond" : ""
+
+"achievement.innersloth.die_during_medscan.title" : "待宰羔羊"
+"achievement.innersloth.die_during_medscan.goal" : "在医务室扫描过程中被杀。"
+"achievement.innersloth.die_during_medscan.cond" : ""
+
+"achievement.innersloth.kills_first.title" : "初露锋芒"
+"achievement.innersloth.kills_first.goal" : "完成首次击杀。"
+"achievement.innersloth.kills_first.cond" : ""
+
+"achievement.innersloth.kills_easy.title" : "杀手"
+"achievement.innersloth.kills_easy.goal" : "总计杀死 5 个人。"
+"achievement.innersloth.kills_easy.cond" : ""
+
+"achievement.innersloth.kills_medium.title" : "刺客"
+"achievement.innersloth.kills_medium.goal" : "总计杀死 50 个人。"
+"achievement.innersloth.kills_medium.cond" : ""
+
+"achievement.innersloth.kills_hard.title" : "死神"
+"achievement.innersloth.kills_hard.goal" : "总计杀死 150 个人。"
+"achievement.innersloth.kills_hard.cond" : ""
+
+"achievement.innersloth.three_kills_before_meeting.title" : "饥饿难耐"
+"achievement.innersloth.three_kills_before_meeting.goal" : "在召开会议前杀死 3 个人。"
+"achievement.innersloth.three_kills_before_meeting.cond" : ""
+
+"achievement.innersloth.fix_own_sabotage.title" : "伪装船员"
+"achievement.innersloth.fix_own_sabotage.goal" : "修复一次自己造成的破坏。"
+"achievement.innersloth.fix_own_sabotage.cond" : ""
+
+"achievement.innersloth.kill_during_lights.title" : "暗藏杀机"
+"achievement.innersloth.kill_during_lights.goal" : "在照明损坏期间杀死一个人。"
+"achievement.innersloth.kill_during_lights.cond" : ""
+
+"achievement.innersloth.hns_survive_crewmate.title" : "捉迷藏高手"
+"achievement.innersloth.hns_survive_crewmate.goal" : "在捉迷藏模式下，以船员身份在游戏中生存下去。"
+"achievement.innersloth.hns_survive_crewmate.cond" : ""
+
+"achievement.innersloth.hns_impostor_kill_all.title" : "无处可逃"
+"achievement.innersloth.hns_impostor_kill_all.goal" : "在捉迷藏模式下，以伪装者身份杀死所有躲藏者。"
+"achievement.innersloth.hns_impostor_kill_all.cond" : ""
+
+"achievement.innersloth.hns_complete_all_tasks.title" : "飓风行动"
+"achievement.innersloth.hns_complete_all_tasks.goal" : "捉迷藏模式下，完成所有任务。"
+"achievement.innersloth.hns_complete_all_tasks.cond" : ""
+
+"achievement.innersloth.hns_crewmate_wins_easy.title" : "你逃不掉的"
+"achievement.innersloth.hns_crewmate_wins_easy.goal" : "捉迷藏模式下，以躲藏者身份获胜10局"
+"achievement.innersloth.hns_crewmate_wins_easy.cond" : ""
+
+"achievement.innersloth.hns_crewmate_wins_hard.title" : "但你可以躲起来"
+"achievement.innersloth.hns_crewmate_wins_hard.goal" : "捉迷藏模式下，以躲藏者身份获胜50局"
+"achievement.innersloth.hns_crewmate_wins_hard.cond" : ""
+
+"achievement.innersloth.hns_impostor_kills_easy.title" : "你可以逃命"
+"achievement.innersloth.hns_impostor_kills_easy.goal" : "捉迷藏模式下，以追杀者身份杀死100人。"
+"achievement.innersloth.hns_impostor_kills_easy.cond" : ""
+
+"achievement.innersloth.hns_impostor_kills_hard.title" : "但你没地方躲"
+"achievement.innersloth.hns_impostor_kills_hard.goal" : "捉迷藏模式下，以追杀者身份杀死200人。"
+"achievement.innersloth.hns_impostor_kills_hard.cond" : ""
