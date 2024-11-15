@@ -374,6 +374,20 @@
 "achievement.bountyHunter.challenge.goal" : "30秒内杀死3个玩家。"
 "achievement.bountyHunter.challenge.cond" : ""
 
+"achievement.bubblegun.common1.title" : "抓到了！"
+"achievement.bubblegun.common1.goal" : "用泡泡捕捉一个玩家。"
+"achievement.bubblegun.common1.cond" : ""
+
+"achievement.bubblegun.another1.title" : "破碎的泡泡"
+"achievement.bubblegun.another1.goal" : "使用泡泡枪后，在下轮会议中被赌杀或者驱逐。"
+"achievement.bubblegun.another1.cond" : ""
+"achievement.bubblegun.another1.flavor" : "“终有消散时。”"
+
+"achievement.bubblegun.challenge.title" : "泡泡危机"
+"achievement.bubblegun.challenge.goal" : "向右上方发生一个泡泡，并在破裂前使3名以上玩家困住。"
+"achievement.bubblegun.challenge.cond" : ""
+"achievement.bubblegun.challenge.flavor" : "“这是什么东西那么漂亮？”-来自好奇者。"
+
 "achievement.camouflager.common1.title" : "谁在那？"
 "achievement.camouflager.common1.goal" : "使用一次技能。"
 "achievement.camouflager.common1.cond" : ""
@@ -1153,6 +1167,14 @@
 "achievement.spectator.murderer.title" : "忐忑不安"
 "achievement.spectator.murderer.goal" : "观战视角中玩家进行击杀。"
 "achievement.spectator.murderer.cond" : ""
+
+"achievement.teleporter1.title" : "奇妙的感觉"
+"achievement.teleporter1.goal" : "使用一次传送器"
+"achievement.teleporter1.cond" : ""
+
+"achievement.teleporter2.title" : "虫洞研究家"
+"achievement.teleporter2.goal" : "累计使用50次传送器"
+"achievement.teleporter2.cond" : ""
 
 "achievement.allWayKill.title" : "受难日"
 "achievement.allWayKill.goal" : "集齐全部击杀式死亡原因。"
