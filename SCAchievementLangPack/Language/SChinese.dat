@@ -875,6 +875,21 @@
 "achievement.damned.challenge.cond" : ""
 "achievement.damned.challenge.flavor" : "“我想当个好人！”-来自手上沾满血液的伪装者。"
 
+"achievement.combination.2.damned.avenger.hard.title" : "悲惨的谢幕"
+"achievement.combination.2.damned.avenger.hard.goal" : "复仇者击杀拥有受诅咒者的凶手，并获得其职业胜利。<br><br><size=75%><color=#aaaaaa>如果凶手是受诅咒者，诅咒将发生变化。<br>受诅咒者将死亡，复仇者将代替目标原职业。</color></size>"
+"achievement.combination.2.damned.avenger.hard.cond" : "提示：原恋人的另一方不会胜利。"
+"achievement.combination.2.damned.avenger.hard.flavor" : "“这个是一个悲惨的故事，但也充满戏剧性。”—一位幕后的演员。"
+
+"achievement.ember.another1.title" : "来自诅咒的反噬"
+"achievement.ember.another1.goal" : "被复仇者击杀，但因为自己是受诅咒者化为余烬而输掉游戏。"
+"achievement.ember.another1.cond" : ""
+"achievement.ember.another1.flavor" : "“——那是你应有的代价！”"
+
+"achievement.ember.another2.title" : "风平浪静"
+"achievement.ember.another2.goal" : "被复仇者击杀，但因为自己是受诅咒者导致死亡但仍然获胜。"
+"achievement.ember.another2.cond" : ""
+"achievement.ember.another2.flavor" : "“人生嘛，大风大浪的很正常。”"
+
 "achievement.extraMission.common1.title" : "任务完成"
 "achievement.extraMission.common1.goal" : "额外任务目标死亡。"
 "achievement.extraMission.common1.cond" : ""
