@@ -83,6 +83,10 @@
 "achievement.comet.common3.cond" : "提示：技能持续时间：15秒以下+速度倍率：2.5倍以下"
 "achievement.comet.common3.flavor" : "“请不要超速。” ―来自会议的警告"
 
+"achievement.comet.common4.title" : "换挡起飞！"
+"achievement.comet.common4.goal" : "使用加速陷阱并配合“敏捷”特技下的加速效果。"
+"achievement.comet.common4.cond" : ""
+
 "achievement.comet.challenge.title" : "不可见的目击者"
 "achievement.comet.challenge.goal" : "在技能期间看到凶案。"
 "achievement.comet.challenge.cond" : ""
@@ -754,6 +758,10 @@
 "achievement.jester.common1.goal" : "在会议阶段获得1以上的票数"
 "achievement.jester.common1.cond" : "自身投票不算"
 
+"achievement.jester.common2.title" : "新玩具！"
+"achievement.jester.common2.goal" : "使用“空弹”或“愤怒”营造出假信息后被驱逐并获胜。"
+"achievement.jester.common2.cond" : ""
+
 "achievement.jester.challenge.title" : "充满欢愉的会议"
 "achievement.jester.challenge.goal" : "在会议阶段被驱逐"
 "achievement.jester.challenge.cond" : ""
@@ -889,6 +897,14 @@
 "achievement.ember.another2.goal" : "被复仇者击杀，但因为自己是受诅咒者导致死亡但仍然获胜。"
 "achievement.ember.another2.cond" : ""
 "achievement.ember.another2.flavor" : "“人生嘛，大风大浪的很正常。”"
+
+"achievement.disclosure.common1.title" : "直播中"
+"achievement.disclosure.common1.goal" : "在鼠标光标被公开的情况下进行投票。"
+"achievement.disclosure.common1.cond" : ""
+
+"achievement.disclosure.challenge.title" : "乱世舆论"
+"achievement.disclosure.challenge.goal" : "自身投票超过5秒，并且有3名以上的玩家选择被你投票的玩家。<br>同时3次以上让不同阵营的玩家被票出。"
+"achievement.disclosure.challenge.cond" : ""
 
 "achievement.extraMission.common1.title" : "任务完成"
 "achievement.extraMission.common1.goal" : "额外任务目标死亡。"
@@ -1055,6 +1071,10 @@
 "achievement.poltergeist.common1.goal" : "拖动一次尸体。"
 "achievement.poltergeist.common1.cond" : ""
 
+"achievement.omikuji.title" : "多多益善"
+"achievement.omikuji.goal" : "在一局游戏中获得3个特技。"
+"achievement.omikuji.cond" : "提示：一月限定"
+
 "achievement.setsubun.title" : "喜来福运"
 "achievement.setsubun.goal" : "完成所有任务并活到最后，同时驱逐所有伪装者获得胜利。"
 "achievement.setsubun.cond" : "提示：二月限定"
@@ -1191,6 +1211,10 @@
 "achievement.teleporter2.goal" : "累计使用50次传送器"
 "achievement.teleporter2.cond" : ""
 
+"achievement.movable.title" : "太多规矩"
+"achievement.movable.goal" : "因为多种限制导致无法移动。"
+"achievement.movable.cond" : ""
+
 "achievement.allWayKill.title" : "受难日"
 "achievement.allWayKill.goal" : "集齐全部击杀式死亡原因。"
 "achievement.allWayKill.cond" : ""
@@ -1198,6 +1222,32 @@
 "achievement.allWayDeath.title" : "死亡研究家"
 "achievement.allWayDeath.goal" : "集齐全部死亡原因。"
 "achievement.allWayDeath.cond" : ""
+
+"achievement.perk.screen.title" : "游戏重塑者"
+"achievement.perk.screen.goal" : "伪装者获得翻转屏幕的特技。"
+"achievement.perk.screen.cond" : ""
+"achievement.perk.screen.flavor" : "“疯狂大翻转！”"
+
+"achievement.perk.meteor.title" : "陨石末日"
+"achievement.perk.meteor.goal" : "使用特技“天动万象”击杀3名以上的玩家。"
+"achievement.perk.meteor.cond" : ""
+
+"achievement.perk.blank.title" : "怪我咯"
+"achievement.perk.blank.goal" : "使用特技“空弹”或“愤怒”累计10次以上。"
+"achievement.perk.blank.cond" : ""
+
+"record.perk.manyPerks1.flipX" : "镜像"
+"record.perk.manyPerks1.flipY" : "颠倒"
+"record.perk.manyPerks1.flipXY" : "逆转"
+"record.perk.manyPerks1.invisible" : "融入"
+"record.perk.manyPerks1.meteor" : "天动万象"
+"record.perk.manyPerks1.rotation" : "晕厥"
+"record.perk.manyPerks1.blankShot" : "空弹"
+"record.perk.manyPerks1.fakeAxe" : "愤怒"
+
+"achievement.perk.manyPerks1.title" : "特技大师"
+"achievement.perk.manyPerks1.goal" : "累计使用指定的特技"
+"achievement.perk.manyPerks1.cond" : ""
 
 "achievement.costume.animals.title" : "动物世界"
 "achievement.costume.animals.goal" : "和动物服装的玩家一起游玩。"
